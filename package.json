@@ -1,0 +1,19 @@
+{
+  "name": "mspec",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "archy": "^1.0.0",
+    "mkdirp": "^0.5.1",
+    "npm-registry-client": "^8.6.0",
+    "pacote": "^10.3.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-plugin-prettier": "^2.2.0",
+    "prettier": "^1.19.1"
+  }
+}
